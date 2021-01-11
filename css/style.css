@@ -1,12 +1,12 @@
 @charset "UTF-8";
-@font-face {
+/* @font-face {
   font-family: ROLAchan, Verdana, Geneva, Tahoma, sans-serif;
   src: local("../fonts/ROLAchan-Regular.otf");
 }
 
 .top h1 {
   font-family: ROLAchan, Verdana, Geneva, Tahoma, sans-serif;
-}
+} */
 
 .top {
   background-image: url(../img/top.png);
